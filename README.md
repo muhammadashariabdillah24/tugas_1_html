@@ -1,2 +1,2 @@
-# tugas_1_html
-Tugas_1_html
+# tugas_1_js
+Tugas_1_js
